@@ -34,7 +34,7 @@
      <version>2.19.1</version>
      <configuration>
      <suiteXmlFiles>
-     <suiteXmlFiles>${testngfile}</suiteXmlFiles>
+     <suiteXmlFiles>testng.xml</suiteXmlFiles>
      </suiteXmlFiles>
      </configuration>
     </plugin>

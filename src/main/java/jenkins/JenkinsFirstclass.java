@@ -20,6 +20,7 @@ public class JenkinsFirstclass {
 public void setup() {
 	
 	
+	
     driver = new ChromeDriver();
 	System.setProperty("webdriver.chrome.driver","C:\\Users\\47Billion\\Desktop\\chrome\\chromedriver_win32");
 	driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);

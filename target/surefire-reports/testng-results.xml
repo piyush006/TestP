@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-01-12T10:15:14Z" name="Suite" finished-at="2023-01-12T10:15:22Z" duration-ms="7553">
+  <suite started-at="2023-01-13T06:09:16Z" name="Suite" finished-at="2023-01-13T06:09:22Z" duration-ms="6337">
     <groups>
     </groups>
-    <test started-at="2023-01-12T10:15:14Z" name="Test" finished-at="2023-01-12T10:15:22Z" duration-ms="7553">
+    <test started-at="2023-01-13T06:09:16Z" name="Test" finished-at="2023-01-13T06:09:22Z" duration-ms="6337">
       <class name="jenkins.JenkinsFirstclass">
-        <test-method is-config="true" signature="setup()[pri:0, instance:jenkins.JenkinsFirstclass@4b5189ac]" started-at="2023-01-12T10:15:14Z" name="setup" finished-at="2023-01-12T10:15:21Z" duration-ms="7075" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:jenkins.JenkinsFirstclass@4b5189ac]" started-at="2023-01-13T06:09:16Z" name="setup" finished-at="2023-01-13T06:09:22Z" duration-ms="5895" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="login()[pri:0, instance:jenkins.JenkinsFirstclass@4b5189ac]" started-at="2023-01-12T10:15:21Z" name="login" finished-at="2023-01-12T10:15:22Z" duration-ms="453" status="PASS">
+        <test-method signature="login()[pri:0, instance:jenkins.JenkinsFirstclass@4b5189ac]" started-at="2023-01-13T06:09:22Z" name="login" finished-at="2023-01-13T06:09:22Z" duration-ms="419" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
